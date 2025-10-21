@@ -1,6 +1,6 @@
 # Payslip Payment Details Extractor
 
-A Python tool to automatically extract payment details and summary information from PDF payslips.
+A Python tool to automatically extract payment details and summary information from PDF payslips of UniSA and Adelaide University.
 
 ## Features
 
