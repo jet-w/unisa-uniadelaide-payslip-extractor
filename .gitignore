@@ -1,0 +1,7 @@
+.venv/
+.claude/
+
+!.vscode/
+
+*.pdf
+*.xlsx
